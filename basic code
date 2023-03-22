@@ -28,6 +28,7 @@ void add_customer() {
     printf("Customer added successfully.\n");
 }
 
+
 // Main function
 int main() {
     int choice;
